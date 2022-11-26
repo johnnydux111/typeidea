@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6 (typeidea-env) (2)" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6 (typeidea-env)" project-jdk-type="Python SDK" />
+>>>>>>> 53a92949223925654b03eac16d9fe897eaba6e66
   <component name="PyCharmProfessionalAdvertiser">
     <option name="shown" value="true" />
   </component>

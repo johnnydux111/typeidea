@@ -5,6 +5,10 @@ import sys
 if __name__ == "__main__":
     profile = os.environ.get('TYPEIDEA_PROFILE', 'develop')
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "typeidea.settings.%s" % profile)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 53a92949223925654b03eac16d9fe897eaba6e66
     try:
         from django.core.management import execute_from_command_line
     except ImportError:
